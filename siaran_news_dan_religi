@@ -1,0 +1,78 @@
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816511391.png" group-title="News", 87
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311645075.png" group-title="News", 101
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306045465.png" group-title="News", 102
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309083718.png" group-title="News", 103
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304397900.png" group-title="News", 115
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584461741167.jpg" group-title="News", 119
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304045370.png" group-title="News", 124
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656089971.jpg" group-title="News", 129
+rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306805332.png" group-title="News", 800
+rtp://@239.1.1.193:9132
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306076437.png" group-title="News", 801
+rtp://@239.1.1.105:8604
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304649783.png" group-title="News", 802
+rtp://@239.1.1.199:9168
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306015075.png" group-title="News", 803
+rtp://@239.1.1.155:8904
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305049915.png" group-title="News", 804
+rtp://@239.1.1.65:8364
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303857413.png" group-title="News", 805
+rtp://@239.1.1.195:9144
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581556530497.png" group-title="News", 806
+rtp://@239.1.1.191:9120
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306704650.png" group-title="News", 808
+rtp://@239.1.1.187:9096
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1590932834837.jpg" group-title="News", 809
+rtp://@239.1.2.118:9410
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1597377197131.jpg" group-title="News", 810
+rtp://@239.1.2.84:8296
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890112069.jpg" group-title="News", 811
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656040198.jpg" group-title="News", 812
+rtp://@239.1.1.146:7985
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816537263.png" group-title="News", 907
+rtp://@239.1.2.70:8396
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306062652.png" group-title="News", 913
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311661866.png" group-title="News", 915
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306104579.png" group-title="News", 982
+rtp://@239.1.1.246:9438
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890134595.jpg" group-title="News", 983
+rtp://@239.1.2.94:9448
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305064953.png" group-title="News", 984
+rtp://@239.1.2.23:8112
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303915958.png" group-title="News", 985
+rtp://@239.1.2.8:8022
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309712381.png" group-title="News", 986
+rtp://@239.1.2.22:8106
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306722281.png" group-title="News", 988
+rtp://@239.1.2.243:9360
+
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581303974011.png" group-title="Relegious", 850
+rtp://@239.1.1.185:9084
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581307923474.png" group-title="Relegious", 852
+rtp://@239.1.1.224:9320
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311794736.png" group-title="Relegious", 853
+rtp://@239.1.2.234:9374
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311761143.png" group-title="Relegious", 854
+rtp://@239.1.1.213:9252
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309194685.png" group-title="Relegious", 855
+rtp://@239.1.1.150:8874
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581308932177.png" group-title="Relegious", 856
+rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1584461700446.jpg" group-title="Relegious", 858
+rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309067861.png" group-title="Relegious", 860
+rtp://@239.1.2.52:8286
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311046600.png" group-title="Relegious", 870
+rtp://@239.1.1.78:8442
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309800477.png" group-title="Relegious", 871
