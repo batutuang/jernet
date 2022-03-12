@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118721317.png"  group-title="Sport", 85 Use Sports
+rtp://@239.1.1.101:8580
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118779646.png"  group-title="Sport", 86 Use Sports 2
+rtp://@239.1.1.53:8292
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304301060.png"  group-title="Sport", 701 Bein Sports 1
+rtp://@239.1.1.217:9204
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304336171.png"  group-title="Sport", 702 Bein Sports 3
+rtp://@239.1.1.221:9300
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307114588.png"  group-title="Sport", 704 Fight Sports
+rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313952031.png"  group-title="Sport", 708 NBA TV
+rtp://@239.1.1.49:8268
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306765161.png"  group-title="Sport", 709 Egg Network
+rtp://@239.1.1.50:8274
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310239060.png"  group-title="Sport", 711 Golf TV
+rtp://@239.1.1.140:8814
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759040271.jpg"  group-title="Sport", 714 Horizon Sports
