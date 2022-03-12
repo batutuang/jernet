@@ -1,0 +1,72 @@
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307990510.png" group-title="Local Channel", 1. Ruang Terampil
+rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816511391.png" group-title="Local Channel", 2. Sea Today
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309907162.png" group-title="Local Channel", 3. Use Prime
+rtp://@239.1.1.216:9270
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309835005.png" group-title="Local Channel", 4. Use Photo
+rtp://@239.1.1.251:9498
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833696268.png" group-title="Local Channel", 5. Indihome Shopping
+rtp://@239.1.2.98:9514
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309571114.png" group-title="Local Channel", 6. TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311645075.png" group-title="Local Channel", 7. Metro TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306045465.png" group-title="Local Channel", 8. CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309083718.png" group-title="Local Channel", 9. TVOne
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308627140.png" group-title="Local Channel", 10. TransTV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308788820.png" group-title="Local Channel", 11. Trans7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308100089.png" group-title="Local Channel", 12. SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304064348.png" group-title="Local Channel", 13. ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311176344.png" group-title="Local Channel", 14. Indosiar
+rtp://@239.1.1.17:8076
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1607004286365.jpg" group-title="Local Channel", 110. MSHOP Signature
+rtp://@239.1.1.36:8190
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636647775265.jpg" group-title="Local Channel", 111. BTV
+rtp://@239.1.1.12:7984
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313978213.png" group-title="Local Channel", 112. NET.
+rtp://@239.1.1.119:8688
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311534004.png" group-title="Local Channel", 114. KompasTV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304397900.png" group-title="Local Channel", 115. Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311336825.png" group-title="Local Channel", 116. JAKTV
+rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307963468.png" group-title="Local Channel", 118. RTV
+rtp://@239.1.1.69:8388
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584461741167.jpg" group-title="Local Channel", 119. IDX
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306193587.png" group-title="Local Channel", 120. DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598582765632.jpg" group-title="Local Channel", 121. ATV
+rtp://@239.1.2.88:8308
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304143082.png" group-title="Local Channel", 122. Bali TV
+rtp://@239.1.1.72:8406
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311369872.png" group-title="Local Channel", 123. JTV
+rtp://@239.1.1.6:8010
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304045370.png" group-title="Local Channel", 124. ANTARA TV
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308916967.png" group-title="Local Channel", 127. Edukasi TV
+rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1605534885913.png" group-title="Local Channel", 128. NusantaraTV
+rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656089971.jpg" group-title="Local Channel", 129. INews
+rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307948883.png" group-title="Local Channel", 130. RRINet
+rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1615866531203.jpg" group-title="Local Channel", 137. TV Jawa
+rtp://@239.1.2.6:8000
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640755680.jpg" group-title="Local Channel", 200. IndonesianaTV
+rtp://@239.1.1.206:9199
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311321666.png" group-title="Local Channel", 503. Insert
+rtp://@239.1.1.113:8652
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890112069.jpg" group-title="Local Channel", 811. CNBC
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656040198.jpg" group-title="Local Channel", 812. MNC News
+rtp://@239.1.1.146:7985
