@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308611475.png" group-title="Movie", 610 Thrill
+rtp://@239.1.1.83:8472
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304863747.png" group-title="Movie", 611 Celestial Movies
+rtp://@239.1.1.97:8556
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758703641.jpg" group-title="Movie", 612 My Cinema
+rtp://@239.1.1.161:8940
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309353747.png" group-title="Movie", 613 TvN Movies
+rtp://@239.1.1.61:8340
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310324666.png" group-title="Movie", 614 Zee Bioskop
+rtp://@239.1.1.129:8748
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305803964.png" group-title="Movie", 615 Cinema World
+rtp://@239.1.1.189:9108
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759009830.jpg" group-title="Movie", 616 My Family Channel
+rtp://@239.1.1.175:9024
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1635136432027.jpg" group-title="Movie", 617 Galaxy
+rtp://@239.1.1.184:8778
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304422611.png" group-title="Movie", 618 Bioskop Indonesia
+rtp://@239.1.1.226:9332
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307147880.png" group-title="Movie", 619 Flik
+rtp://@239.1.1.71:8400
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311132895.png" group-title="Movie", 620 IMC
+rtp://@239.1.2.20:8094
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584461725357.jpg" group-title="Movie", 621 Galaxy Premium
+rtp://@239.1.2.240:9390
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1592402108802.jpg" group-title="Movie", 622 Star Chinese Movies
+rtp://@239.1.1.131:8760
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758637971.jpg" group-title="Movie", 624 My Cinema Asia
+rtp://@239.1.1.237:9396
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598860128546.jpg" group-title="Movie", 945 One
