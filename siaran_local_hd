@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308026084.png" group-title="HD Channel", 900. Ruang Terampil HD
+rtp://@239.1.1.111:8640
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309920612.png" group-title="HD Channel", 905. UseeSports HD
+rtp://@239.1.2.203:9180
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309920612.png" group-title="HD Channel", 906. UseSports 2 HD
+rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816537263.png" group-title="HD Channel", 907. Sea Today HD
+rtp://@239.1.2.70:8396
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309920612.png" group-title="HD Channel", 908. UseePrime HD
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309882065.png" group-title="HD Channel", 909. UseeTV HD
+rtp://@239.1.2.24:8118
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313995745.png" group-title="HD Channel", 910. NET. HD
+rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308753117.png" group-title="HD Channel", 911. TransTV HD
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308820607.png" group-title="HD Channel", 912. Trans7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306062652.png" group-title="HD Channel", 913. CNN HD
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308119591.png" group-title="HD Channel", 914. SCTV HD
+rtp://@239.1.2.58:8324
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311661866.png" group-title="HD Channel", 915. MetroTV HD
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640777219.jpg" group-title="HD Channel", 916. IndonesianaTV HD
+rtp://@239.1.1.176:9197
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1615866548886.jpg" group-title="HD Channel", 917. TV Jawa HD
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833734059.jpg" group-title="HD Channel", 919. Indihome Shopping HD
+rtp://@239.1.2.96:9510
